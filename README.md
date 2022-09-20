@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning .Net Core
 - 📫 How to reach me quoclam4a@gmail.com
 
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
+- ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
-📊 This Week I Spent My Time On
+- 📊 This Week I Spent My Time On
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+- 💬 Programming Languages: 
+- No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
+- 🔥 Editors: 
+- No Activity Tracked This Week
 
 
 <!---
