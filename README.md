@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuocLam98
 - 👀 I’m interested in Developer
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning .Net Core, Nodejs, Vuejs,...
 - 📫 How to reach me quoclam4a@gmail.com
 
 - ⌚︎ Time Zone: Asia/Ho_Chi_Minh
@@ -8,7 +8,9 @@
 - 📊 This Week I Spent My Time On
 
 - 💬 Programming Languages: 
-- No Activity Tracked This Week
+- C#
+- Javascript
+- Typescript
 
 - 🔥 Editors: 
 - No Activity Tracked This Week
