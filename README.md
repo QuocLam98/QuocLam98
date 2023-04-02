@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuocLam98
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%205%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,6 @@ No Activity Tracked This Week
 ```text
 TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 PHP                      20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-```
+``` -->
 
 <!--END_SECTION:waka-->
