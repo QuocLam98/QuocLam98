@@ -24,10 +24,10 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
-![Streak Stats](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuocLam98&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuocLam98&layout=compact&theme=dark)  
+![Streak Stats](https://streak-stats.demolab.com?user=QuocLam98&theme=dark&hide_border=true)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=QuocLam98&theme=onedark)
 
 ---
 
