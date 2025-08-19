@@ -22,19 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuocLam98&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuocLam98&layout=compact&theme=dark)  
-![Streak Stats](https://streak-stats.demolab.com?user=QuocLam98&theme=dark&hide_border=true)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=QuocLam98&theme=onedark)
-
----
-
-![Metrics](https://github.com/QuocLam98/QuocLam98/blob/main/github-metrics.svg)
-
----
-
 ### ⏱️ WakaTime Stats
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeveloperHaySuy&layout=compact&theme=dark)
