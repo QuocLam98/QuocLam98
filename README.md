@@ -22,13 +22,9 @@
 
 ---
 
-### ⏱️ WakaTime Stats
-
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeveloperHaySuy&layout=compact&theme=dark)
 
 ---
-
-### 📈 Developer Metrics (WakaTime)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2022%20mins-blue)
