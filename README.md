@@ -31,6 +31,10 @@
 
 ---
 
+![Metrics](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg)
+
+---
+
 ### ⏱️ WakaTime Stats
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeveloperHaySuy&layout=compact&theme=dark)
