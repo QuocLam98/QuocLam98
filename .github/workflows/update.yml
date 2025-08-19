@@ -1,22 +1,75 @@
+name: Update README
+
 on:
   push:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # 00:00 Asia/Ho_Chi_Minh (ICT) = 17:00 UTC hằng ngày
+    - cron: "0 17 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  # Job 1: Cập nhật block WakaTime trong README
+  waka:
+    name: Update README with WakaTime
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE : "True"
-          SHOW_SHORT_INFO : "True"
-          SHOW_COMMIT : "True"
-          SHOW_LANGUAGE : "True"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- Tuỳ chọn hiển thị ---
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"           # nếu muốn thấy VSCode/IntelliJ,...
           SHOW_OS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "True"
+          TIMEZONE: "Asia/Ho_Chi_Minh"
+          COMMIT_BY_ME: "True"           # chỉ tính commit của bạn
+          LOCALE: "en"                   # hoặc "vi"
+          SHOW_UPDATED_DATE: "True"
+
+  # Job 2: Sinh ảnh Metrics (Early bird / Productive day / Habits...)
+  metrics:
+    name: Generate GitHub Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tạo PAT (profile Settings → Developer settings → PAT classic)
+          # và lưu vào secret: METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: ${{ github.repository_owner }}
+          filename: github-metrics.svg
+          config_timezone: Asia/Ho_Chi_Minh
+          base: ""                       # không cần header mặc định
+
+          # Lịch/commit theo tuần & theo năm
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_commit_calendar: yes
+
+          # Thói quen code (giờ/ngày trong tuần)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_from: 200        # min commits để tính
+          plugin_habits_days: 30         # cửa sổ phân tích 30 ngày gần nhất
+
+          # Ngôn ngữ
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+
+          # Dòng code ước lượng (tuỳ chọn)
+          plugin_lines: yes
