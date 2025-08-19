@@ -8,9 +8,7 @@
 
 ### ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,angular,azure,react,vue,flutter,apple,bitbucket,bootstrap,bun,cs,cloudflare,
-css,dart,discord,docker,figma,git,github,gitlab,html,js,linkedin,linux,mongodb,nginx,nodejs,npm,nuxtjs,postgres,postman,ts,vite,vscode,
-windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,angular,azure,react,vue,flutter,apple,bitbucket,bootstrap,bun,cs,cloudflare,css,dart,discord,docker,figma,git,github,gitlab,html,js,linkedin,linux,mongodb,nginx,nodejs,npm,nuxtjs,postgres,postman,ts,vite,vscode,windows&perline=15)](https://skillicons.dev)
 
 ---
 
