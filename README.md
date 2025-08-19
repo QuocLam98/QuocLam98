@@ -31,7 +31,7 @@
 
 ---
 
-![Metrics](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg)
+![Metrics](https://github.com/QuocLam98/QuocLam98/blob/main/github-metrics.svg)
 
 ---
 
