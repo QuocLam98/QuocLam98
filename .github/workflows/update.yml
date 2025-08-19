@@ -21,20 +21,21 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
-          # --- Tuỳ chọn hiển thị ---
+          # ---- Hiển thị ngôn ngữ & Timeline như ảnh ----
+          SHOW_LANGUAGE: "True"
+          SHOW_LOC_CHART: "True"
+
+          # ---- Các tuỳ chọn hữu ích khác (tuỳ bạn) ----
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"           # nếu muốn thấy VSCode/IntelliJ,...
+          SHOW_EDITORS: "True"
           SHOW_OS: "False"
-          SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "True"
-          TIMEZONE: "Asia/Ho_Chi_Minh"
-          COMMIT_BY_ME: "True"           # chỉ tính commit của bạn
-          LOCALE: "en"                   # hoặc "vi"
+          LOCALE: "en"
           SHOW_UPDATED_DATE: "True"
+          COMMIT_BY_ME: "True"
 
   # Job 2: Sinh ảnh Metrics (Early bird / Productive day / Habits...)
   metrics:
