@@ -8,17 +8,9 @@
 
 ### ⚡ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,angular,azure,react,vue,flutter,apple,bitbucket,bootstrap,bun,cs,cloudflare,
+css,dart,discord,docker,figma,git,github,gitlab,html,js,linkedin,linux,mongodb,nginx,nodejs,npm,nuxtjs,postgres,postman,ts,vite,vscode,
+windows&perline=15)](https://skillicons.dev)
 
 ---
 
