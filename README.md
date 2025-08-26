@@ -17,6 +17,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-555.5%20thousand%20lines%20of%20code-blue)
@@ -88,5 +90,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 11:43:29 UTC
+ Last Updated on 26/08/2025 11:44:27 UTC
 <!--END_SECTION:waka-->
