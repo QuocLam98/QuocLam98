@@ -17,15 +17,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-555.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.6 kB Used in GitHub's Storage 
+> 📦 327.7 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2025
  > 
@@ -62,15 +62,15 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Dart                     2 hrs 24 mins       ███████████████░░░░░░░░░░   58.17 % 
-Vue.js                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Kotlin                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-textmate                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Dart                     6 hrs 35 mins       ██████████████████░░░░░░░   72.96 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+textmate                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 56 mins       ██████████████████░░░░░░░   71.22 % 
-VS Code                  1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+VS Code                  5 hrs 33 mins       ███████████████░░░░░░░░░░   61.50 % 
+Android Studio           3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -91,5 +91,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 01:02:50 UTC
+ Last Updated on 31/08/2025 00:56:32 UTC
 <!--END_SECTION:waka-->
