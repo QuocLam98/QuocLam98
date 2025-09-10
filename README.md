@@ -17,23 +17,23 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-555.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.6 kB Used in GitHub's Storage 
+> 📦 327.7 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -62,15 +62,15 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Dart                     7 hrs 7 mins        █████████████████████░░░░   85.17 % 
-TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Dart                     11 hrs 35 mins      ████████████████░░░░░░░░░   64.12 % 
+TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Vue.js                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 20 mins       █████████████████████████   99.51 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  18 hrs 1 min        █████████████████████████   99.74 % 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in C#** 
@@ -90,5 +90,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 00:54:40 UTC
+ Last Updated on 10/09/2025 00:51:00 UTC
 <!--END_SECTION:waka-->
