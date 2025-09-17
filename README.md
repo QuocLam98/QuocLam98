@@ -27,8 +27,6 @@
 
 > 📦 327.8 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -89,5 +87,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:31:38 UTC
+ Last Updated on 17/09/2025 01:32:31 UTC
 <!--END_SECTION:waka-->
