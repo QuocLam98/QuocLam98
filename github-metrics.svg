@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.05621609306246" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="377.05621609306246" y="0" width="49.74044163321111" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="426.79665772627357" y="0" width="19.839956279191277" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="446.6366140054649" y="0" width="5.85907076783835" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="452.49568477330325" y="0" width="5.19006993011374" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.685754703417" y="0" width="2.2036657525796084" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.88942045599657" y="0" width="0.10246229221208476" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.9918827482087" y="0" width="0.00811725179132419" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.7443943163735" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.7443943163735" y="0" width="49.699306777925926" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="426.4437010942994" y="0" width="19.823548830772808" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="446.2672499250722" y="0" width="6.234556858135392" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="452.5018067832076" y="0" width="5.185777793403949" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.6875845766115" y="0" width="2.201927327578735" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.8895119041903" y="0" width="0.10237755690568336" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.9918894610959" y="0" width="0.008110538904048042" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -92,7 +92,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.0 characters per line of code written</li>
+                        <li>Has approximately 39.9 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -138,8 +138,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">41</span>
-                            <div class="bar" style="height: 13.85135135135135px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">38</span>
+                            <div class="bar" style="height: 12.837837837837837px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -158,8 +158,8 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 0.33783783783783783px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 1.0135135135135136px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -168,8 +168,8 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 0.6756756756756757px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 1.0135135135135136px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -234,8 +234,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">42</span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">45</span>
+                                <div class="bar" style="height: 33.582089552238806px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -245,22 +245,22 @@
                             </div>
                             <div class="entry">
                                 <span class="value">51</span>
-                                <div class="bar" style="height: 36.42857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 38.059701492537314px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">70</span>
+                                <span class="value">67</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">5</span>
-                                <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.731343283582089px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">32</span>
-                                <div class="bar" style="height: 22.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 23.88059701492537px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -2257,6 +2257,11 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
