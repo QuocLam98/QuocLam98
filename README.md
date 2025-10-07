@@ -17,15 +17,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 329.2 kB Used in GitHub's Storage 
+> 📦 329.4 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2025
  > 
@@ -62,14 +62,14 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
-TypeScript               4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Vue.js                   3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+HTML                     4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
+TypeScript               3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
+Vue.js                   2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Dart                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
 Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -90,5 +90,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 01:01:40 UTC
+ Last Updated on 07/10/2025 00:51:39 UTC
 <!--END_SECTION:waka-->
