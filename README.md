@@ -17,15 +17,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 329.4 kB Used in GitHub's Storage 
+> 📦 329.5 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2025
  > 
@@ -62,15 +62,14 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
-TypeScript               3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
-Vue.js                   2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Dart                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+HTML                     6 hrs 45 mins       ██████████████░░░░░░░░░░░   55.17 % 
+TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Vue.js                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Dart                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -90,5 +89,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 00:51:39 UTC
+ Last Updated on 09/10/2025 00:52:21 UTC
 <!--END_SECTION:waka-->
