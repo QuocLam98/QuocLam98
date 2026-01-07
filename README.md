@@ -17,15 +17,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.05%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.05%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 332.5 kB Used in GitHub's Storage 
+> 📦 332.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -62,14 +62,14 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               13 hrs 28 mins      █████████████████████░░░░   83.51 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Docker                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               14 hrs 19 mins      █████████████████████████   99.24 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -89,5 +89,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 00:32:46 UTC
+ Last Updated on 07/01/2026 00:07:08 UTC
 <!--END_SECTION:waka-->
