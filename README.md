@@ -17,7 +17,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -83,5 +83,5 @@ VS Code                  5 hrs 48 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 17:05:32 UTC
+ Last Updated on 18/01/2026 17:05:51 UTC
 <!--END_SECTION:waka-->
