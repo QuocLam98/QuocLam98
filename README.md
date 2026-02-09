@@ -62,12 +62,10 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Vue.js                   12 mins             ███████████████████░░░░░░   75.94 % 
-TypeScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -87,5 +85,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 03:43:53 UTC
+ Last Updated on 09/02/2026 00:11:53 UTC
 <!--END_SECTION:waka-->
