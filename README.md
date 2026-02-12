@@ -68,14 +68,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
-
 ```text
-C#                       5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+
 ```
 
 
@@ -85,5 +79,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuocLam98/QuocLam98/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 21:18:42 UTC
+ Last Updated on 12/02/2026 21:19:02 UTC
 <!--END_SECTION:waka-->
